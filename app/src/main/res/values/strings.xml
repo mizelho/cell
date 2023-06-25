@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">eva_s_application6</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="lbl_eva_michelle">EVA MICHELLE</string>
+<string name="lbl_email">email</string>
+<string name="lbl_check_out">CHECK-OUT</string>
+<string name="lbl_lihat_semua">Lihat Semua</string>
+<string name="lbl_employee2">EMPLOYEE</string>
+<string name="lbl_task_list">Task-list</string>
+<string name="lbl_check_out2">Check-Out</string>
+<string name="msg_software_develo">Software Developer</string>
+<string name="lbl_17_00_30">17:00:30</string>
+<string name="lbl_info">Info</string>
+<string name="lbl_eva_michele">EVA MICHELE</string>
+<string name="lbl_masuk">MASUK</string>
+<string name="lbl_login">LOGIN</string>
+<string name="lbl_employee">Employee</string>
+<string name="lbl_shift_pagi">Shift Pagi</string>
+<string name="lbl_calendar">Calendar</string>
+<string name="lbl_08_00_05">08:00:05</string>
+<string name="lbl_welcome_to_home">Welcome To Home</string>
+<string name="lbl_check_in">CHECK-IN</string>
+<string name="lbl_check_in2">Check-in</string>
+<string name="msg_attendance_rec">Attendance 
+Record</string>
+<string name="lbl_my_location">My Location</string>
+<string name="lbl_password">Password</string>
+<string name="lbl_clock">Clock</string>
+<string name="lbl_amal_academy">Amal Academy</string>
+<string name="msg_senin_22_mei_2">Senin, 22 Mei 2023</string>
+<string name="lbl_ussername">ussername</string>
+<string name="lbl_username">Username</string>
+<string name="lbl_register">REGISTER</string>
+<string name="lbl">&gt; </string>
+<string name="lbl_22_00_02_00">22:00- 02:00</string>
+<string name="lbl_overtime">Overtime</string>
+<string name="lbl_jadwal_kerja">Jadwal Kerja</string>
+<string name="lbl_log_absensi">Log Absensi</string>
+</resources>
